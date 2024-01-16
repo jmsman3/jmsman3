@@ -1,4 +1,4 @@
-# Hi there! 👋 Hi, I am Jubaer Mahmud. You know me, don't you?
+# Hi there! 👋 I am Jubaer Mahmud. You know me, don't you?
 
 - 💻 I'm currently interested in coding, and I enjoy the world of programming.
 - 🚴 I love cycling whenever I get the chance.
