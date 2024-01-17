@@ -2,6 +2,8 @@
 
 - 💻 I'm currently interested in coding, and I enjoy the world of programming.
 - 🚴 I love cycling whenever I get the chance.
+- 📺 Currently chilling with the TV show 'Gopal Vhar'—what a fantastic way to unwind! 🍿✨
+
 
 ## Learning Journey 🌱
 
