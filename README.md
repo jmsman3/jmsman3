@@ -3,6 +3,7 @@
 - 💻 I'm currently interested in coding, and I enjoy the world of programming.
 - 🚴 I love cycling whenever I get the chance.
 - 📺 Sometimes chilling with the TV show 'Gopal Vhar'—what a fantastic way to unwind! 🍿✨
+- I went From B.O.F High School batch of 2019 and My College was Notre Dame College Mymensigh batch of 2021
 
 
 ## Learning Journey 🌱
