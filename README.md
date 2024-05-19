@@ -1,19 +1,19 @@
 # Hi there! 👋 I am Jubaer Mahmud. You know me, don't you?
 
+- I went From the B.O.F High School batch of 2019 and My College was Notre Dame College Mymensigh batch of 2021
 - 💻 I'm currently interested in coding, and I enjoy the world of programming.
 - 🚴 I love cycling whenever I get the chance.
 - 📺 Sometimes chilling with the TV show 'Gopal Vhar'—what a fantastic way to unwind! 🍿✨
-- I went From B.O.F High School batch of 2019 and My College was Notre Dame College Mymensigh batch of 2021
 
 
 ## Learning Journey 🌱
 
-My goal is to solve at least one problem per day using C++ to enhance my learning. I believe in the transformative power of coding and its ability to change the world. In the future, I aim to create a revolutionary website that contributes positively to society.
+I aim to solve at least one problem daily using C++ to enhance my learning. I believe in the transformative power of coding and its ability to change the world. In the future, I aim to create a revolutionary website that contributes positively to society.
 
 ## Collaboration and Goals 💡
 
 - 🔍 At the moment, I'm not seeking any collaboration. My main focus is on learning and mastering coding.
-- 🎯 I aspire to build a constructive career in the Software Development world.
+- 🎯 I aspire to build a constructive career in Software Development.
 
 ## Fun Facts and Future Plans ⚡
 
