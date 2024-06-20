@@ -7,8 +7,7 @@
 
 
 ## Learning Journey 🌱
-
-I aim to solve at least one problem daily using C++ to enhance my learning. I believe in the transformative power of coding and its ability to change the world. In the future, I aim to create a revolutionary website that contributes positively to society.
+I believe in the transformative power of coding and its ability to change the world. In the future, I aim to create a revolutionary website that contributes positively to society.
 
 ## Collaboration and Goals 💡
 
