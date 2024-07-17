@@ -67,29 +67,26 @@
     </a>
 </p>
 
-<h3 align="left">GitHub Stats:</h3>
+<h3 style="text-align: left;">GitHub Stats:</h3>
 
-<p>
-<p align="left">
-    <a href="https://github.com/jmsman3">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jmsman3&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="jmsman3" />
-    </a>
-</p>
+<div style="display: flex; justify-content: space-between;">
+    <div>
+        <a href="https://github.com/jmsman3">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jmsman3&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="jmsman3" />
+        </a>
+    </div>
 
-
-<p align="right">
-    <a href="https://github.com/jmsman3">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=jmsman3&show_icons=true&locale=en&theme=tokyonight" alt="jmsman3" />
-    </a>
-</p>
-</p>
-
+    <div>
+        <a href="https://github.com/jmsman3">
+            <img src="https://github-readme-stats.vercel.app/api?username=jmsman3&show_icons=true&locale=en&theme=tokyonight" alt="jmsman3" />
+        </a>
+    </div>
+</div>
 
 <p align="center">
     <a href="https://github.com/jmsman3">
-       <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jmsman3&show_icons=true&locale=en&theme=tokyonight" alt="jmsman3"  />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=jmsman3&show_icons=true&locale=en&theme=tokyonight" alt="jmsman3" />
     </a>
 </p>
-
 
 
