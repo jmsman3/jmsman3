@@ -74,11 +74,7 @@
     </a>
 </p>
 
-<p align="center">
-    <a href="https://github.com/jmsman3">
-        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jmsman3&theme=tokyonight" alt="jmsman3" />
-    </a>
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jmsman3&" alt="jmsman3" /></p>
 
 <p align="center">
     <a href="https://github.com/jmsman3">
