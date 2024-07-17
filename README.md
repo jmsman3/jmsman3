@@ -1,18 +1,17 @@
 <h1 align="center">Hi 👋, I'm Md. Jubaer Mahmud Sarker</h1>
+<h3 align="center">Backend Developer || Django || MySQL</h3>
 
-<h3 align="center">Backend dev. || Django || MySQL</h3>
-
-<p align="left">
+<p align="center">
     <img src="https://komarev.com/ghpvc/?username=jmsman3&label=Profile%20views&color=0e75b6&style=flat" alt="jmsman3" />
 </p>
 
-<p align="left" dir="auto">
+<p align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=jmsman3" alt="jmsman3" style="max-width: 100%;" />
+        <img src="https://github-profile-trophy.vercel.app/?username=jmsman3&theme=onedark&no-frame=true&margin-w=15" alt="jmsman3" style="max-width: 100%;" />
     </a>
 </p>
 
-<p align="left">
+<p align="center">
     <a href="https://twitter.com/" target="blank">
         <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" />
     </a>
@@ -68,14 +67,21 @@
     </a>
 </p>
 
-<p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jmsman3&show_icons=true&locale=en&layout=compact" alt="jmsman3" />
+<h3 align="left">GitHub Stats:</h3>
+<p align="center">
+    <a href="https://github.com/jmsman3">
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=jmsman3&show_icons=true&locale=en&theme=tokyonight" alt="jmsman3" />
+    </a>
 </p>
 
-<p>
-    &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jmsman3&show_icons=true&locale=en" alt="jmsman3" />
+<p align="center">
+    <a href="https://github.com/jmsman3">
+        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jmsman3&theme=tokyonight" alt="jmsman3" />
+    </a>
 </p>
 
-<p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jmsman3&" alt="jmsman3" />
+<p align="center">
+    <a href="https://github.com/jmsman3">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jmsman3&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="jmsman3" />
+    </a>
 </p>
