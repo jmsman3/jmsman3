@@ -2,8 +2,7 @@
 <img src="https://media.licdn.com/dms/image/D4E16AQFRVbn3boXxYQ/profile-displaybackgroundimage-shrink_350_1400/0/1720805698889?e=1726704000&v=beta&t=Yg-3jaHQR3F2oJ9x7Ctjl2cheVF1Ycg9CPpAqtrXJ1M" alt="Jubaer Mahmud's Background Image" align="center">
 <h3 align="center">A passionate backend developer from Bangladesh</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jmsman3&label=Profile%20views&color=0e75b6&style=flat" alt="jmsman3" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jmsman3" alt="jmsman3" /></a> </p>
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jmsman3&row=1&column=6&no-bg=true&no-frame=true&theme=flat" alt="jmsman3" /></a> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/jmsman3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jmsman3" height="30" width="40" /></a>
