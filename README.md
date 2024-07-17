@@ -68,25 +68,12 @@
 </p>
 
 <h3 style="text-align: left;">GitHub Stats:</h3>
-
-<div style="display: flex; justify-content: space-between;">
-    <div>
-        <a href="https://github.com/jmsman3">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jmsman3&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="jmsman3" />
-        </a>
-    </div>
-
-    <div>
-        <a href="https://github.com/jmsman3">
-            <img src="https://github-readme-stats.vercel.app/api?username=jmsman3&show_icons=true&locale=en&theme=tokyonight" alt="jmsman3" />
-        </a>
-    </div>
-</div>
-
-<p align="center">
-    <a href="https://github.com/jmsman3">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=jmsman3&show_icons=true&locale=en&theme=tokyonight" alt="jmsman3" />
-    </a>
-</p>
-
+<p>
+    <img align="left"
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=jmsman3&show_icons=true&locale=en&layout=compact"
+        alt="jmsman3" />
+    </p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jmsman3&show_icons=true&locale=en"
+        alt="jmsman3" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jmsman3&" alt="jmsman3" /></p>
 
