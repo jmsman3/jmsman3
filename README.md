@@ -85,7 +85,7 @@
 
 <p align="left">
     <a href="https://github.com/jmsman3">
-       <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jmsman3&" alt="jmsman3" />
+       <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jmsman3&show_icons=true&locale=en&theme=tokyonight" alt="jmsman3"  />
     </a>
 </p>
 
