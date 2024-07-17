@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Jubaer Mahmud</h1>
-<hr>
 <h3 align="center">Backend dev. || Djngo || MySQL </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jmsman3&label=Profile%20views&color=0e75b6&style=flat"
