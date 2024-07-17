@@ -1,40 +1,26 @@
-# Hi there! 👋 I am Jubaer Mahmud. You know me, don't you?
+<h1 align="center">Hi 👋, I'm Jubaer Mahmud.You know me,don't you?</h1>
+<h3 align="center">A passionate backend developer from Bangladesh</h3>
 
-- 💻 I'm currently interested in coding, and I enjoy the world of programming.
-- 🚴 I love cycling whenever I get the chance.
-- 📺 Sometimes chilling with the TV show 'Gopal Vhar'—what a fantastic way to unwind! 🍿✨
-- 🏫 I went to the B.O.F High School, batch of 2019, and my college was Notre Dame College Mymensigh, batch of 2021.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jmsman3&label=Profile%20views&color=0e75b6&style=flat" alt="jmsman3" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jmsman3" alt="jmsman3" /></a> </p>
 
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-## Learning Journey 🌱
-I believe in the transformative power of coding and its ability to change the world. In the future, I aim to create a revolutionary website that contributes positively to society.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/jmsman3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jmsman3" height="30" width="40" /></a>
+<a href="https://fb.com/jmsman33" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jmsman33" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/jmsman3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="jmsman3" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/jmsman3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jmsman3" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@jmsman3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@jmsman3" height="30" width="40" /></a>
+</p>
 
-## Collaboration and Goals 💡
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-- 🔍 At the moment, I'm not seeking any collaboration. My main focus is on learning and mastering coding.
-- 🎯 I aspire to build a constructive career in Software Development.
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jmsman3&show_icons=true&locale=en&layout=compact" alt="jmsman3" /></p>
 
-## Fun Facts and Future Plans ⚡
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jmsman3&show_icons=true&locale=en" alt="jmsman3" /></p>
 
-- ❓ No fun facts to share right now, but stay tuned!
-- 🚀 My primary goal is to create a positive impact through coding and contribute to the tech community.
-
-## Problem-Solving Commitment 🧠
-
-- 🤓 I'm committed to solving at least one coding problem every day to sharpen my skills.
-
-## Connect with Me 🌐
-
-- [LinkedIn](https://www.linkedin.com/in/mdjubaermahmudsarker/)
-- 📧 Email: jmsman3@gmail.com
-
-## Pronouns 👤
-
-- Pronouns: Mohammad Jubaer Mahmud Sorkar
-
-Feel free to reach out to me on LinkedIn or via email. Let's code the future together!
-
-<!---
-- 😄 Pronouns: [mention your preferred pronouns, e.g., he/him, she/her, they/them].
---->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jmsman3&" alt="jmsman3" /></p>
