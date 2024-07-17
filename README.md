@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jubaer Mahmud</h1>
+<img src="https://media.licdn.com/dms/image/D4E16AQFRVbn3boXxYQ/profile-displaybackgroundimage-shrink_350_1400/0/1720805698889?e=1726704000&v=beta&t=Yg-3jaHQR3F2oJ9x7Ctjl2cheVF1Ycg9CPpAqtrXJ1M" alt="Jubaer Mahmud's Background Image" align="center">
 <h3 align="center">A passionate backend developer from Bangladesh</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jmsman3&label=Profile%20views&color=0e75b6&style=flat" alt="jmsman3" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jmsman3" alt="jmsman3" /></a> </p>
