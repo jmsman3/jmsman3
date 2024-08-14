@@ -65,6 +65,12 @@
     <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" />
     </a>
+    <a href="https://sqlite.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="sqlite" width="40" height="40" />
+    </a>
+    <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40" />
+    </a>
 </p>
 
 <h3 style="text-align: left;">GitHub Stats:</h3>
