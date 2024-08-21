@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md. Jubaer Mahmud Sarker</h1>
-<h3 align="center">Backend || Django || MySQL</h3>
+<h3 align="center">Backend || Django || PostgreSQL</h3>
 
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=jmsman3&label=Profile%20views&color=0e75b6&style=flat" alt="jmsman3" />
