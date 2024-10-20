@@ -18,7 +18,7 @@
 </p>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<!-- <p align="left">
     <a href="https://linkedin.com/in/jmsman3" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jmsman3" height="30" width="40" />
     </a>
@@ -34,8 +34,32 @@
     <a href="https://discord.com/users/837661705038332004" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
 </a>
-
+</p> -->
+<p dir="auto">
+    <a href="https://www.linkedin.com/in/jmsman3/" rel="nofollow">
+        <img src="https://camo.githubusercontent.com/0c59c81be6c6e981fbad69ea742692368b3fdc1018090a34cb7764dfea5a1a91/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333030373742352e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="LinkedIn" data-canonical-src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;">
+    </a>
+    <a href="https://discord.com/users/776133256240300052" rel="nofollow">
+        <img src="https://camo.githubusercontent.com/404c37b96536f6a6f4740fe538fbbd1a05885008f18efd46c127a6964d3fb9fc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446973636f72642d2532333538363546322e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d646973636f7264266c6f676f436f6c6f723d7768697465" alt="Discord" data-canonical-src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&amp;logo=discord&amp;logoColor=white" style="max-width: 100%;">
+    </a>
+    <a href="https://twitter.com/jmsman3" rel="nofollow">
+        <img src="https://camo.githubusercontent.com/9d786d74c3c2e6b0249c2d4f8fe92a6e9245b13940e99ce35075459cb95bc582/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f582d2532333030303030302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d58266c6f676f436f6c6f723d7768697465" alt="X" data-canonical-src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&amp;logo=X&amp;logoColor=white" style="max-width: 100%;">
+    </a>
+    <a href="https://codeforces.com/profile/jmsman3" rel="nofollow">
+        <img src="https://camo.githubusercontent.com/2cb1e95250338741ec87371adc9b317cb6f54f0440e2fc92faa316e8844947b2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436f6465666f726365732d3434356639643f7374796c653d666f722d7468652d6261646765266c6f676f3d436f6465666f72636573266c6f676f436f6c6f723d7768697465" alt="Codeforces" data-canonical-src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&amp;logo=Codeforces&amp;logoColor=white" style="max-width: 100%;">
+    </a>
+    <a href="https://www.codechef.com/users/jmsman3" rel="nofollow">
+        <img src="https://camo.githubusercontent.com/513f7a32eb9267250a71ea54dddd6701e0495a3bd5c077ac6686dc4c7322ed7d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436f6465436865662d2532333936344230302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d436f646543686566266c6f676f436f6c6f723d7768697465" alt="CodeChef" data-canonical-src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&amp;logo=CodeChef&amp;logoColor=white" style="max-width: 100%;">
+    </a>
+    <a href="https://leetcode.com/jmsman3/" rel="nofollow">
+        <img src="https://camo.githubusercontent.com/5fa7721f4465f6fb6e7d0e2f5a8b44bc052bb5070a02c1ebe355dfe34bbf2bc1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c656574436f64652d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d4c656574436f6465266c6f676f436f6c6f723d23643136633036" alt="LeetCode" data-canonical-src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&amp;logo=LeetCode&amp;logoColor=#d16c06" style="max-width: 100%;">
+    </a>
+    <a href="https://www.hackerrank.com/jmsman3" rel="nofollow">
+        <img src="https://camo.githubusercontent.com/54858485d9b1c376a42e213f4a08e62c4911cae29bf25bf255659f450a20197d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4861636b657272616e6b2d3245433836363f7374796c653d666f722d7468652d6261646765266c6f676f3d4861636b657252616e6b266c6f676f436f6c6f723d7768697465" alt="Hackerrank" data-canonical-src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&amp;logo=HackerRank&amp;logoColor=white" style="max-width: 100%;">
+    </a>
 </p>
+
+
 
 <h3 align="left">Languages and Core Technology: </h3>
 <p align="left">
