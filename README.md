@@ -17,8 +17,8 @@
     </a>
 </p>
 
-<h3 align="left">Connect with me:</h3>
-<p dir="auto"><strong>Connect with me: 🌐</strong></p>
+<h3 align="left">🌐 Connect with me:</h3>
+
 <!-- <p align="left">
     <a href="https://linkedin.com/in/jmsman3" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jmsman3" height="30" width="40" />
@@ -62,7 +62,7 @@
 
 
 
-<h3 align="left">Languages and Core Technology: </h3>
+<h3 align="left">💻 Languages and Core Technology: </h3>
 <p align="left">
 <!--     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" />
@@ -128,7 +128,7 @@
 </p>
 
 
-<h3 style="text-align: left;">GitHub Status: </h3>
+<h3 style="text-align: left;">📊 GitHub Status: </h3>
 <p dir="auto">
     <a target="_blank" rel="noopener noreferrer nofollow" href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jmsman3&theme=algolia">
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jmsman3&theme=algolia" alt="" style="max-width: 100%;">
@@ -137,7 +137,7 @@
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
-<h3 style="text-align: left;">GitHub Detail: </h3>
+<h3 style="text-align: left;">📖 GitHub Detail: </h3>
 <p>
     <img align="left"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=jmsman3&show_icons=true&locale=en&layout=compact"
@@ -147,7 +147,7 @@
 <p dir="auto">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jmsman3&show_icons=true&locale=en" alt="jmsman3" /></p>
 
 ----------------------------------------------------------------------------------------------------------------------------------------
-<h3 style="text-align: left;">GitHub Streak Count:</h3>
+<h3 style="text-align: left;"> 🔥 GitHub Streak Count:</h3>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jmsman3&" alt="jmsman3" /></p>
 
   
