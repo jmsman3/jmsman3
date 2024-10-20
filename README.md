@@ -133,9 +133,9 @@
         src="https://github-readme-stats.vercel.app/api/top-langs?username=jmsman3&show_icons=true&locale=en&layout=compact"
         alt="jmsman3" />
     </p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jmsman3&show_icons=true&locale=en"
+<p dir="auto">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jmsman3&show_icons=true&locale=en"
         alt="jmsman3" /></p>
-<p dir="auto"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jmsman3&" alt="jmsman3" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jmsman3&" alt="jmsman3" /></p>
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 <p dir="auto">
