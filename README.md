@@ -143,4 +143,9 @@
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jmsman3&theme=algolia" alt="" style="max-width: 100%;">
     </a>
 </p>
+<p dir="auto">
+    <a href="mailto:jmsman3@gmail.com" style="text-decoration: none; color: inherit;">
+        <img src="https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="max-width: 100%;">
+    </a>
+</p>
 
