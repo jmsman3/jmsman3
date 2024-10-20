@@ -39,7 +39,7 @@
     <a href="https://www.linkedin.com/in/jmsman3/" rel="nofollow">
         <img src="https://camo.githubusercontent.com/0c59c81be6c6e981fbad69ea742692368b3fdc1018090a34cb7764dfea5a1a91/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333030373742352e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="LinkedIn" data-canonical-src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;">
     </a>
-    <a href="https://discord.com/users/776133256240300052" rel="nofollow">
+    <a href="https://discord.com/users/837661705038332004" rel="nofollow">
         <img src="https://camo.githubusercontent.com/404c37b96536f6a6f4740fe538fbbd1a05885008f18efd46c127a6964d3fb9fc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446973636f72642d2532333538363546322e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d646973636f7264266c6f676f436f6c6f723d7768697465" alt="Discord" data-canonical-src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&amp;logo=discord&amp;logoColor=white" style="max-width: 100%;">
     </a>
     <a href="https://twitter.com/jmsman3" rel="nofollow">
