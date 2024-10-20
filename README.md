@@ -37,7 +37,7 @@
 
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Core Technology: </h3>
 <p align="left">
 <!--     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" />
@@ -91,6 +91,8 @@
 </a>
 
 <!-- Tools Section -->
+
+<h3 align="left">Tools and Others: </h3>
 <a href="https://www.linkedin.com/in/jmsman3/" rel="nofollow">
     <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" 
     style="max-width: 100%;">
