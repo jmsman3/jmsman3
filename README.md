@@ -128,7 +128,7 @@
 
 
 <h3 style="text-align: left;">GitHub Stats:</h3>
-<p>
+<p  dir="auto">
     <img align="left"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=jmsman3&show_icons=true&locale=en&layout=compact"
         alt="jmsman3" />
