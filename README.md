@@ -117,7 +117,7 @@
 
 <!-- Tools Section -->
 
-<h3 align="left">Tools and Others: </h3>
+<h3 align="left">🛠️ Tools and Others: </h3>
 <a href="https://www.linkedin.com/in/jmsman3/" rel="nofollow">
     <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" 
     style="max-width: 100%;">
