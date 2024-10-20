@@ -137,3 +137,9 @@
         alt="jmsman3" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jmsman3&" alt="jmsman3" /></p>
 
+----------------------------------------------------------------------------------------------------------------------------------------
+<p dir="auto">
+    <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/6cc305b6fb64e9d679d2ea5e68258e5500f5f727ba0a02f0670ca8967381c0bb/687474703a2f2f6769746875622d70726f66696c652d73756d6d6172792d63617264732e76657263656c2e6170702f6170692f63617264732f70726f66696c652d64657461696c733f757365726e616d653d6a6d73613d746168646969736c616d267468656d653d616c676f6c6961">
+        <img src="https://camo.githubusercontent.com/6cc305b6fb64e9d679d2ea5e68258e5500f5f727ba0a02f0670ca8967381c0bb/687474703a2f2f6769746875622d70726f66696c652d73756d6d6172792d63617264732e76657263656c2e6170702f6170692f63617264732f70726f66696c652d64657461696c733f757365726e616d653d6a6d73613d746168646969736c616d267468656d653d616c676f6c6961" alt="" data-canonical-src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jmsman3&amp;theme=algolia" style="max-width: 100%;">
+    </a>
+</p>
