@@ -127,12 +127,14 @@
 </p>
 
 
-<h3 style="text-align: left;">GitHub Stats: </h3>
+<h3 style="text-align: left;">GitHub Status: </h3>
 <p dir="auto">
     <a target="_blank" rel="noopener noreferrer nofollow" href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jmsman3&theme=algolia">
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jmsman3&theme=algolia" alt="" style="max-width: 100%;">
     </a>
 </p>
+
+----------------------------------------------------------------------------------------------------------------------------------------
 
 <h3 style="text-align: left;">GitHub Detail: </h3>
 <p>
@@ -144,6 +146,7 @@
 <p dir="auto">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jmsman3&show_icons=true&locale=en" alt="jmsman3" /></p>
 
 ----------------------------------------------------------------------------------------------------------------------------------------
+<h3 style="text-align: left;">GitHub Streak Count:</h3>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jmsman3&" alt="jmsman3" /></p>
 
   
