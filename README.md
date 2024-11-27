@@ -136,10 +136,12 @@
 </p>
 <h3 style="text-align: left;">📊 GitHub Status: </h3>
 <p dir="auto">
-    <a target="_blank" rel="noopener noreferrer nofollow" href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jmsman3&theme=ambient_gradient&hide_border=false">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jmsman3&theme=ambient_gradient&hide_border=false" alt="GitHub Profile Summary" style="max-width: 100%;">
+    <a target="_blank" rel="noopener noreferrer nofollow" href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jmsman3&theme=algolia">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jmsman3&theme=algolia" alt="" style="max-width: 100%;">
     </a>
 </p>
+
+
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
