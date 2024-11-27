@@ -127,7 +127,7 @@
 </a>
  -->
  <a href="https://www.linkedin.com/in/jmsman3/" rel="nofollow">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,render,netlify,vercel,notion,figma,supabase" 
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,netlify,vercel,notion,figma,supabase" 
     style="max-width: 100%;">
 </a>
 
