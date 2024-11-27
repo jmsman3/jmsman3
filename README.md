@@ -16,6 +16,8 @@
         <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" />
     </a>
 </p>
+### ✍ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 <h3 align="left">🌐 Connect with me:</h3>
 
