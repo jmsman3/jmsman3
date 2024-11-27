@@ -17,7 +17,10 @@
     </a>
 </p>
 ### ✍ Random Dev Quote
-https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark
+<p align="center">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
+</p>
+
 
 <h3 align="left">🌐 Connect with me:</h3>
 
