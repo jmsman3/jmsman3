@@ -138,7 +138,7 @@
 <h3 style="text-align: left;">📊 GitHub Status: </h3>
 <p dir="auto">
     <a target="_blank" rel="noopener noreferrer nofollow" href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jmsman3&theme=radical">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jmsman3&theme=radical" alt="GitHub Profile Summary" style="max-width: 100%;">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jmsman3&theme=ambient_gradient&hide_border=false" alt="GitHub Profile Summary" style="max-width: 100%;">
     </a>
 </p>
 
@@ -151,12 +151,12 @@
         alt="Top Languages" />
 </p>
     
-<p dir="auto">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jmsman3&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" /></p>
+<p dir="auto">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jmsman3&show_icons=true&locale=en&theme=ambient_gradient&hide_border=false" alt="GitHub Stats" /></p>
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 <h3 style="text-align: left;"> 🔥 GitHub Streak Count:</h3>
 <p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jmsman3&theme=radical" alt="GitHub Streak" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jmsman3&theme=ambient_gradient&hide_border=false" alt="GitHub Streak" />
 </p>
 
  
