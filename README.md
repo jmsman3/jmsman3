@@ -5,154 +5,30 @@
     <img src="https://komarev.com/ghpvc/?username=jmsman3&label=Profile%20views&color=0e75b6&style=flat" alt="jmsman3" />
 </p>
 
-<p align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=jmsman3&theme=onedark&no-frame=true&margin-w=15" alt="jmsman3" style="max-width: 100%;" />
-    </a>
-</p>
-
-<p align="center">
-    <a href="https://twitter.com/" target="blank">
-        <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" />
-    </a>
-</p>
-### ✍ Random Dev Quote
-<p align="center">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
-</p>
+# 💫 About Me:
+🔭 I’m currently working on Django projects, including features like user authentication, book management, and transaction systems.<br>👯 I’m looking to collaborate on innovative projects involving Python, Django, or frontend development with Tailwind CSS.<br>🤝 I’m looking for help with deploying Django projects to platforms like Render and optimizing database performance with PostgreSQL.<br>🌱 I’m currently learning advanced Django features, PostgreSQL integration, and building dynamic web applications.<br>💬 Ask me about Django development, user authentication systems, or working with APIs.<br>⚡ Fun fact: I’m a cycling enthusiast who also enjoys watching ‘Gopal Vhar’ to unwind after coding sessions!
 
 
-<h3 align="left">🌐 Connect with me:</h3>
+## 🌐 Socials:
+[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/jmsman3) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/837661705038332004) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/jmsman33) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jmsman3) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jmsman3) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@jmsman3) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/jmsman3) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/jmsman3) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/jmsman3) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/jmsman3) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/jmsman3) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/jmsman3) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@jmsman3) 
 
-<!-- <p align="left">
-    <a href="https://linkedin.com/in/jmsman3" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jmsman3" height="30" width="40" />
-    </a>
-    <a href="https://fb.com/jmsman33" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jmsman33" height="30" width="40" />
-    </a>
-    <a href="https://codeforces.com/profile/jmsman3" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="jmsman3" height="30" width="40" />
-    </a>
-    <a href="https://www.leetcode.com/jmsman3" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jmsman3" height="30" width="40" />
-    </a>
-    <a href="https://discord.com/users/837661705038332004" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
-</a>
-</p> -->
-<p dir="auto">
-    <a href="https://www.linkedin.com/in/jmsman3/" rel="nofollow">
-        <img src="https://camo.githubusercontent.com/0c59c81be6c6e981fbad69ea742692368b3fdc1018090a34cb7764dfea5a1a91/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333030373742352e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="LinkedIn" data-canonical-src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;">
-    </a>
-    <a href="https://discord.com/users/837661705038332004" rel="nofollow">
-        <img src="https://camo.githubusercontent.com/404c37b96536f6a6f4740fe538fbbd1a05885008f18efd46c127a6964d3fb9fc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446973636f72642d2532333538363546322e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d646973636f7264266c6f676f436f6c6f723d7768697465" alt="Discord" data-canonical-src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&amp;logo=discord&amp;logoColor=white" style="max-width: 100%;">
-    </a>
-    <a href="https://twitter.com/jmsman3" rel="nofollow">
-        <img src="https://camo.githubusercontent.com/9d786d74c3c2e6b0249c2d4f8fe92a6e9245b13940e99ce35075459cb95bc582/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f582d2532333030303030302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d58266c6f676f436f6c6f723d7768697465" alt="X" data-canonical-src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&amp;logo=X&amp;logoColor=white" style="max-width: 100%;">
-    </a>
-    <a href="https://codeforces.com/profile/jmsman3" rel="nofollow">
-        <img src="https://camo.githubusercontent.com/2cb1e95250338741ec87371adc9b317cb6f54f0440e2fc92faa316e8844947b2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436f6465666f726365732d3434356639643f7374796c653d666f722d7468652d6261646765266c6f676f3d436f6465666f72636573266c6f676f436f6c6f723d7768697465" alt="Codeforces" data-canonical-src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&amp;logo=Codeforces&amp;logoColor=white" style="max-width: 100%;">
-    </a>
-    <a href="https://www.codechef.com/users/jmsman3" rel="nofollow">
-        <img src="https://camo.githubusercontent.com/513f7a32eb9267250a71ea54dddd6701e0495a3bd5c077ac6686dc4c7322ed7d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436f6465436865662d2532333936344230302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d436f646543686566266c6f676f436f6c6f723d7768697465" alt="CodeChef" data-canonical-src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&amp;logo=CodeChef&amp;logoColor=white" style="max-width: 100%;">
-    </a>
-    <a href="https://leetcode.com/jmsman3/" rel="nofollow">
-        <img src="https://camo.githubusercontent.com/5fa7721f4465f6fb6e7d0e2f5a8b44bc052bb5070a02c1ebe355dfe34bbf2bc1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c656574436f64652d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d4c656574436f6465266c6f676f436f6c6f723d23643136633036" alt="LeetCode" data-canonical-src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&amp;logo=LeetCode&amp;logoColor=#d16c06" style="max-width: 100%;">
-    </a>
-    <a href="https://www.hackerrank.com/jmsman3" rel="nofollow">
-        <img src="https://camo.githubusercontent.com/54858485d9b1c376a42e213f4a08e62c4911cae29bf25bf255659f450a20197d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4861636b657272616e6b2d3245433836363f7374796c653d666f722d7468652d6261646765266c6f676f3d4861636b657252616e6b266c6f676f436f6c6f723d7768697465" alt="Hackerrank" data-canonical-src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&amp;logo=HackerRank&amp;logoColor=white" style="max-width: 100%;">
-    </a>
-</p>
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=jmsman3&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=jmsman3&theme=ambient_gradient&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jmsman3&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=jmsman3&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-<h3 align="left">💻 Languages and Core Technology: </h3>
-<p align="left">
-<!--     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" />
-    </a>
-    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" />
-    </a>
-    <a href="https://www.python.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
-    </a>
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
-    </a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
-    </a>
-    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" />
-    </a>
-    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="bootstrap" width="40" height="40" />
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
-    </a>
-    <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40" />
-    </a>
-     <a href="https://www.django-rest-framework.org/" target="_blank" rel="noreferrer">
-        <img src="https://www.fullstackpython.com/img/logos/django-rest-framework.png" alt="django-rest-framework" width="40" height="40" />
-    </a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
-    </a>
-    <a href="https://sqlite.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="sqlite" width="40" height="40" />
-    </a>
-    <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40" />
-    </a>
-     <a href="https://www.mysql.com/products/workbench/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL Workbench" width="40" height="40" />
-    </a> -->
-<!--     <a href="https://www.linkedin.com/in/jmsman3/" rel="nofollow">
-    <img src="https://camo.githubusercontent.com/7366ec05db3130bfe4d1b1286124cced0f98c5e0ab808635df557e492c08f7f1/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6a732c70792c632c6370702c6e6f64656a732c657870726573732c72656163742c6e6578746a732c6d7973716c2c6d6f6e676f64622c66697265626173652c68746d6c2c6373732c7461696c77696e642c626f6f747374726170" data-canonical-src="https://skillicons.dev/icons?i=js,py,c,cpp,nodejs,express,react,nextjs,mysql,mongodb,firebase,html,css,tailwind,bootstrap" style="max-width: 100%;">
-  </a> -->
-   <!-- Languages/Technologies Section -->
-<a href="https://www.linkedin.com/in/jmsman3/" rel="nofollow">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,tailwind,bootstrap,javascript,django,sqlite,mysql,postgresql" 
-    style="max-width: 100%;">
-</a>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=jmsman3&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<!-- Tools Section -->
+---
+[![](https://visitcount.itsvg.in/api?id=jmsman3&icon=0&color=3)](https://visitcount.itsvg.in)
 
-<h3 align="left">🛠️ Tools and Others: </h3>
-<a href="https://www.linkedin.com/in/jmsman3/" rel="nofollow">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" 
-    style="max-width: 100%;">
-</a>
-
-
-
-</p>
-
-
-<h3 style="text-align: left;">📊 GitHub Status: </h3>
-<p dir="auto">
-    <a target="_blank" rel="noopener noreferrer nofollow" href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jmsman3&theme=algolia">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jmsman3&theme=algolia" alt="" style="max-width: 100%;">
-    </a>
-</p>
-
-----------------------------------------------------------------------------------------------------------------------------------------
-
-<h3 style="text-align: left;">📖 GitHub Detail: </h3>
-<p>
-    <img align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=jmsman3&show_icons=true&locale=en&layout=compact"
-        alt="jmsman3" />
-    </p>
-    
-<p dir="auto">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jmsman3&show_icons=true&locale=en" alt="jmsman3" /></p>
-
-----------------------------------------------------------------------------------------------------------------------------------------
-<h3 style="text-align: left;"> 🔥 GitHub Streak Count:</h3>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jmsman3&" alt="jmsman3" /></p>
-
-  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
