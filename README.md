@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md. Jubaer Mahmud Sarker</h1>
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/SazeebulBashar/SazeebulBashar/blob/main/assets/rainbow.webp"><img width="100%" src="https://github.com/SazeebulBashar/SazeebulBashar/raw/main/assets/rainbow.webp" style="max-width: 100%;"></a>
+
 <h3 align="center">Backend || DRF || PostgreSQL</h3>
 
 <p align="center">
