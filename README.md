@@ -19,7 +19,6 @@
         <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" />
     </a>
 </p>
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/SazeebulBashar/SazeebulBashar/blob/main/assets/rainbow.webp"><img width="100%" src="https://github.com/SazeebulBashar/SazeebulBashar/raw/main/assets/rainbow.webp" style="max-width: 100%;"></a>
 
 <h3 align="left">🌐 Connect with me:</h3>
 
@@ -65,6 +64,7 @@
 </p>
 
 
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/SazeebulBashar/SazeebulBashar/blob/main/assets/rainbow.webp"><img width="100%" src="https://github.com/SazeebulBashar/SazeebulBashar/raw/main/assets/rainbow.webp" style="max-width: 100%;"></a>
 
 <h3 align="left">💻 Languages and Core Technology: </h3>
 <p align="left">
