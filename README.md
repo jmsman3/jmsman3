@@ -120,6 +120,7 @@
 </a>
 
 <!-- Tools Section -->
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/SazeebulBashar/SazeebulBashar/blob/main/assets/rainbow.webp"><img width="100%" src="https://github.com/SazeebulBashar/SazeebulBashar/raw/main/assets/rainbow.webp" style="max-width: 100%;"></a>
 
 <h3 align="left">🛠 Tools and Others: </h3>
 <!-- <a href="https://www.linkedin.com/in/jmsman3/" rel="nofollow">
@@ -135,6 +136,7 @@
 
 
 </p>
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/SazeebulBashar/SazeebulBashar/blob/main/assets/rainbow.webp"><img width="100%" src="https://github.com/SazeebulBashar/SazeebulBashar/raw/main/assets/rainbow.webp" style="max-width: 100%;"></a>
 <h3 style="text-align: left;">📊 GitHub Status: </h3>
 <p dir="auto">
     <a target="_blank" rel="noopener noreferrer nofollow" href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jmsman3&theme=algolia">
@@ -142,9 +144,7 @@
     </a>
 </p>
 
-
-
-----------------------------------------------------------------------------------------------------------------------------------------
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/SazeebulBashar/SazeebulBashar/blob/main/assets/rainbow.webp"><img width="100%" src="https://github.com/SazeebulBashar/SazeebulBashar/raw/main/assets/rainbow.webp" style="max-width: 100%;"></a>
 
 <h3 style="text-align: left;">📖 GitHub Detail: </h3>
 <p>
@@ -155,7 +155,7 @@
     
 <p dir="auto">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jmsman3&show_icons=true&locale=en&theme=ambient_gradient&hide_border=false" alt="GitHub Stats" /></p>
 
-----------------------------------------------------------------------------------------------------------------------------------------
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/SazeebulBashar/SazeebulBashar/blob/main/assets/rainbow.webp"><img width="100%" src="https://github.com/SazeebulBashar/SazeebulBashar/raw/main/assets/rainbow.webp" style="max-width: 100%;"></a>
 <h3 style="text-align: left;"> 🔥 GitHub Streak Count:</h3>
 <p>
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jmsman3&theme=ambient_gradient&hide_border=false" alt="GitHub Streak" />
