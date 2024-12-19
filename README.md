@@ -161,6 +161,7 @@
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jmsman3&theme=ambient_gradient&hide_border=false" alt="GitHub Streak" />
 </p>
 
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/SazeebulBashar/SazeebulBashar/blob/main/assets/rainbow.webp"><img width="100%" src="https://github.com/SazeebulBashar/SazeebulBashar/raw/main/assets/rainbow.webp" style="max-width: 100%;"></a>
 
 
 <!--   https://gprm.itsvg.in/ follow this website to design github profile  -->
