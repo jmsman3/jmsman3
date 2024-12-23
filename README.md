@@ -19,14 +19,12 @@
         <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" />
     </a>
 </p>
-<div style="width:0px;position:relative;"><video src="https://user-uploads.perchance.org/file/da1bf91d3531f0c92e59e6db38e44176.webm" style="max-width:7rem; position:absolute; top:-1.6rem;left:-1.8rem; z-index:-1; pointer-events:none;" autoplay="" muted="" loop="" playsinline=""></video></div>
-<!-- <h3 align="left">🌐 Connect with me:</h3>-->
-<h2>Connect with Me</h2>
+
+<h3 align="left">🌐 Connect with me:</h3>
+ <div style="width:0px;position:relative;"><video src="https://user-uploads.perchance.org/file/da1bf91d3531f0c92e59e6db38e44176.webm" style="max-width:7rem; position:absolute; top:-1.6rem;left:-1.8rem; z-index:-1; pointer-events:none;" autoplay="" muted="" loop="" playsinline=""></video></div>
+
 <!-- Add your video after this -->
-<video width="320" height="240" controls>
-  <source src="https://user-uploads.perchance.org/file/da1bf91d3531f0c92e59e6db38e44176.webm" type="video/webm">
-  Your browser does not support the video tag.
-</video>
+
 
 
 
