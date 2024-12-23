@@ -20,7 +20,19 @@
     </a>
 </p>
 <div style="width:0px;position:relative;"><video src="https://user-uploads.perchance.org/file/da1bf91d3531f0c92e59e6db38e44176.webm" style="max-width:7rem; position:absolute; top:-1.6rem;left:-1.8rem; z-index:-1; pointer-events:none;" autoplay="" muted="" loop="" playsinline=""></video></div>
-<h3 align="left">🌐 Connect with me:</h3>
+<!-- <h3 align="left">🌐 Connect with me:</h3>-->
+<div style="display: flex; align-items: center; justify-content: space-between;">
+    <div>
+        <h3 align="left">🌐 Connect with me:</h3>
+        <!-- Add your social media links or other content here -->
+    </div>
+    <div>
+        <video src="https://user-uploads.perchance.org/file/da1bf91d3531f0c92e59e6db38e44176.webm" controls style="max-width: 300px; max-height: 200px; border-radius: 8px;">
+            Your browser does not support the video tag.
+        </video>
+    </div>
+</div>
+
 
 <!-- <p align="left">
     <a href="https://linkedin.com/in/jmsman3" target="blank">
