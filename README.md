@@ -23,12 +23,12 @@
 </p>
 
 <h3 align="left">🌐 Connect with me:</h3>
- <div style="width:0px;position:relative;">
-  <a width="280" height="158" src="https://www.youtube.com/embed/jDoOWBoIDG0" 
-          style="max-width:7rem; position:absolute; top:-1.6rem; left:-1.8rem; z-index:-1; pointer-events:none;" 
-          autoplay="1" muted="1" loop="1" playsinline="1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
-  </a>
-</div>
+    <div style="width:0px; position:relative;">
+        <iframe width="280" height="158" src="https://www.youtube.com/embed/jDoOWBoIDG0" 
+            style="max-width:7rem; position:absolute; top:-1.6rem; left:-1.8rem; z-index:-1; pointer-events:none;" 
+            autoplay="1" muted="1" loop="1" playsinline="1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
+        </iframe>
+    </div>
 
  
 
