@@ -132,7 +132,7 @@
   </a> -->
    <!-- Languages/Technologies Section -->
 <a href="https://www.linkedin.com/in/jmsman3/" rel="nofollow">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,tailwind,bootstrap,javascript,django,sqlite,mysql,postgresql" 
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,tailwind,bootstrap,javascript,django,sqlite,mysql,PostgreSQL,Odoo" 
     style="max-width: 100%;">
 </a>
 
