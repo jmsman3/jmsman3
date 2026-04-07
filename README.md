@@ -29,34 +29,31 @@
 
 ## 🧑‍💻 &nbsp;About Me
 
-
-
-```yaml
-# whoami
-
-name        : "Md. Jubaer Mahmud Sarker"
-alias       : "jmsman3"
-role        : "Backend Developer"
-core_stack  : "Python  →  Django  →  DRF  →  PostgreSQL"
-location    : "Bangladesh 🇧🇩"
-status      : "🟢 Open to opportunities"
-
-currently:
-  - working_on : "ERP Systems with Odoo 17"
-  - learning   : "Advanced Django Performance & Async Python"
-  - building   : "Scalable REST APIs & Social Platform Backends"
-
-interests:
-  - Backend Engineering & System Design
-  - REST API Architecture
-  - ERP Implementation (Odoo)
-  - Competitive Programming
-  - Full-Stack Web Development
-
-motto : '"Talk is cheap. Show me the code." — Linus Torvalds'
-```
-
-<br clear="right" />
+<table>
+  <tr>
+    <td width="52%" valign="top">
+      <h3>Hi, I'm Jubaer! 👋</h3>
+      <p>A passionate <strong>Backend Developer</strong> from Bangladesh 🇧🇩, focused on building scalable systems and clean APIs.</p>
+      <ul>
+        <li>🔭 &nbsp;Working on <strong>ERP Systems with Odoo 17</strong></li>
+        <li>🌱 &nbsp;Learning <strong>Advanced Django Performance & Async Python</strong></li>
+        <li>🚀 &nbsp;Building <strong>Scalable REST APIs & Social Platform Backends</strong></li>
+        <li>💬 &nbsp;Ask me about <strong>Python · Django · DRF · PostgreSQL</strong></li>
+        <li>🏆 &nbsp;Passionate about <strong>Competitive Programming</strong></li>
+        <li>📍 &nbsp;Based in <strong>Bangladesh</strong></li>
+        <li>🟢 &nbsp;<strong>Open to opportunities</strong></li>
+      </ul>
+      <br/>
+      <blockquote>
+        <em>"Talk is cheap. Show me the code."</em><br/>
+        <strong>— Linus Torvalds</strong>
+      </blockquote>
+    </td>
+    <td width="48%" align="center" valign="middle">
+      <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%" alt="Coding Animation" />
+    </td>
+  </tr>
+</table>
 
 <br>
 
