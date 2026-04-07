@@ -29,6 +29,8 @@
 
 ## 🧑‍💻 &nbsp;About Me
 
+<img align="right" src="https://raw.githubusercontent.com/yashksaini-coder/yashksaini-coder/main/assets/yashksaini-coder-space-shooter.gif" width="360" alt="Space Shooter Game" />
+
 ```yaml
 # whoami
 
@@ -53,6 +55,8 @@ interests:
 
 motto : '"Talk is cheap. Show me the code." — Linus Torvalds'
 ```
+
+<br clear="right" />
 
 <br>
 
@@ -183,10 +187,6 @@ motto : '"Talk is cheap. Show me the code." — Linus Torvalds'
 <div align="center">
 
 *⭐ If you find my work interesting, a star on any repo would make my day!*
-
-<br>
-
-![Profile Views](https://komarev.com/ghpvc/?username=jmsman3&style=flat-square&color=8E54E9&label=Profile+Views)
 
 <br>
 
