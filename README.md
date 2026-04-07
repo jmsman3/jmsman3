@@ -60,17 +60,7 @@ motto : '"Talk is cheap. Show me the code." — Linus Torvalds'
 
 <div align="center">
 
-### ⚡ Languages
-[![Languages](https://skillicons.dev/icons?i=py,js,ts,c,cpp&theme=dark&perline=5)](https://skillicons.dev)
-
-### 🎨 Frontend
-[![Frontend](https://skillicons.dev/icons?i=html,css,tailwind,bootstrap&theme=dark&perline=5)](https://skillicons.dev)
-
-### ⚙️ Backend & Databases
-[![Backend](https://skillicons.dev/icons?i=django,postgres,mysql,sqlite,supabase&theme=dark&perline=5)](https://skillicons.dev)
-
-### 🧰 Tools & Platforms
-[![Tools](https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,netlify,figma,notion&theme=dark&perline=8)](https://skillicons.dev)
+[![Tech Stack](https://skillicons.dev/icons?i=py,js,ts,c,cpp,html,css,tailwind,bootstrap,django,postgres,mysql,sqlite,supabase,git,github,vscode,postman,vercel,netlify,figma,notion&theme=dark&perline=11)](https://skillicons.dev)
 
 </div>
 
@@ -82,14 +72,16 @@ motto : '"Talk is cheap. Show me the code." — Linus Torvalds'
 
 <div align="center">
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=jmsman3&theme=dracula&no-frame=true&no-bg=false&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=jmsman3&theme=dracula&no-frame=true&margin-w=8&column=7" width="100%" alt="Trophies" />
+</a>
 
 <br>
 
 <table>
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=jmsman3&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="Jubaer's GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=jmsman3&show_icons=true&theme=tokyonight&hide_border=true" alt="Jubaer's GitHub Stats" />
     </td>
     <td align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmsman3&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
@@ -126,58 +118,6 @@ motto : '"Talk is cheap. Show me the code." — Linus Torvalds'
 
 ---
 
-## 🚀 &nbsp;Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/jmsman3/odoo17">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jmsman3&repo=odoo17&theme=tokyonight&hide_border=true&description_lines_count=2" />
-</a>&nbsp;
-<a href="https://github.com/jmsman3/social-onrender-backend">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jmsman3&repo=social-onrender-backend&theme=tokyonight&hide_border=true&description_lines_count=2" />
-</a>
-
-<br><br>
-
-<a href="https://github.com/jmsman3/Final_Backened_django">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jmsman3&repo=Final_Backened_django&theme=tokyonight&hide_border=true&description_lines_count=2" />
-</a>&nbsp;
-<a href="https://github.com/jmsman3/odoo">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jmsman3&repo=odoo&theme=tokyonight&hide_border=true&description_lines_count=2" />
-</a>
-
-</div>
-
-<br>
-
----
-
-## 🐍 &nbsp;Contribution Graph Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/jmsman3/jmsman3/blob/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/jmsman3/jmsman3/blob/output/github-contribution-grid-snake.svg" />
-  <img alt="Snake animation" src="https://github.com/jmsman3/jmsman3/blob/output/github-contribution-grid-snake-dark.svg" />
-</picture>
-
-</div>
-
-<!-- 
-  ╔══════════════════════════════════════════════╗
-  ║         ENABLE SNAKE ANIMATION               ║
-  ║  1. Go to: github.com/jmsman3/jmsman3        ║
-  ║  2. Actions tab → Enable workflows           ║
-  ║  3. Run "Generate Snake" workflow manually   ║
-  ║  4. It will auto-update every day!           ║
-  ╚══════════════════════════════════════════════╝
--->
-
-<br>
-
----
-
 ## 📈 &nbsp;Contribution Activity
 
 <div align="center">
@@ -194,7 +134,7 @@ motto : '"Talk is cheap. Show me the code." — Linus Torvalds'
 
 <div align="center">
 
-[![Readme Quotes](https://quotes-github-profile.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
+<img src="https://quotes-github-profile.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" width="100%" />
 
 </div>
 
