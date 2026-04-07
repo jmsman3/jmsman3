@@ -29,7 +29,7 @@
 
 ## 🧑‍💻 &nbsp;About Me
 
-<img align="right" src="https://raw.githubusercontent.com/yashksaini-coder/yashksaini-coder/main/assets/yashksaini-coder-space-shooter.gif" width="360" alt="Space Shooter Game" />
+
 
 ```yaml
 # whoami
