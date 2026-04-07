@@ -190,6 +190,10 @@ motto : '"Talk is cheap. Show me the code." — Linus Torvalds'
 
 <br>
 
+<img src="https://raw.githubusercontent.com/yashksaini-coder/yashksaini-coder/main/assets/yashksaini-coder-space-shooter.gif" width="100%" alt="Space Shooter" />
+
+<br>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jmsman3/jmsman3/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jmsman3/jmsman3/output/github-contribution-grid-snake.svg" />
