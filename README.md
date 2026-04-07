@@ -1,172 +1,238 @@
 <div align="center">
 
-```
-     ██╗██╗   ██╗██████╗  █████╗ ███████╗██████╗ 
-     ██║██║   ██║██╔══██╗██╔══██╗██╔════╝██╔══██╗
-     ██║██║   ██║██████╔╝███████║█████╗  ██████╔╝
-██   ██║██║   ██║██╔══██╗██╔══██║██╔══╝  ██╔══██╗
-╚█████╔╝╚██████╔╝██████╔╝██║  ██║███████╗██║  ██║
- ╚════╝  ╚═════╝ ╚═════╝ ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4776E6,50:6A3DE8,100:8E54E9&height=240&section=header&text=Md.%20Jubaer%20Mahmud%20Sarker&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20Django%20REST%20Framework%20%7C%20PostgreSQL&descAlignY=58&descSize=19&descColor=c9d1d9" width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF00&background=0D111700&center=true&vCenter=true&width=600&lines=Initializing+system...;Loading+skills...;Backend+Developer+%7C+DRF+%7C+PostgreSQL;Open+to+opportunities...)](https://git.io/typing-svg)
+<br>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=8E54E9&center=true&vCenter=true&random=false&width=700&lines=Hey+there!+I'm+Jubaer+👋;Backend+Developer+%7C+Python+%26+Django;Crafting+Scalable+REST+APIs+⚡;Open+Source+Enthusiast+🌍;Always+Learning%2C+Always+Building+🚀)](https://git.io/typing-svg)
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jmsman3/)
+[![Twitter](https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/jmsman3)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/837661705038332004)
+[![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/jmsman3)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/jmsman3/)
+
+<br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=jmsman3&style=for-the-badge&color=8E54E9&label=PROFILE+VIEWS)
+![GitHub followers](https://img.shields.io/github/followers/jmsman3?style=for-the-badge&color=6A3DE8&logo=github&label=FOLLOWERS)
 
 </div>
 
----
-
-## ⚡ About Me
-
-```
-┌──(jmsman3㉿github)-[~]
-└─$ whoami
-
-  > Name      : Md. Jubaer Mahmud Sarker
-  > Role      : Backend Developer | Django REST Framework | PostgreSQL
-  > Location  : Bangladesh 🇧🇩
-  > Status    : 🟢 Open to opportunities
-  > Interests : Backend Engineering, REST APIs, ERP Systems,
-  >             Competitive Programming, Full-Stack Development
-  > Motto     : "Talk is cheap. Show me the code." — Linus Torvalds
-```
+<br>
 
 ---
 
-## 💻 Tech Stack
+## 🧑‍💻 &nbsp;About Me
 
+```yaml
+# whoami
+
+name        : "Md. Jubaer Mahmud Sarker"
+alias       : "jmsman3"
+role        : "Backend Developer"
+core_stack  : "Python  →  Django  →  DRF  →  PostgreSQL"
+location    : "Bangladesh 🇧🇩"
+status      : "🟢 Open to opportunities"
+
+currently:
+  - working_on : "ERP Systems with Odoo 17"
+  - learning   : "Advanced Django Performance & Async Python"
+  - building   : "Scalable REST APIs & Social Platform Backends"
+
+interests:
+  - Backend Engineering & System Design
+  - REST API Architecture
+  - ERP Implementation (Odoo)
+  - Competitive Programming
+  - Full-Stack Web Development
+
+motto : '"Talk is cheap. Show me the code." — Linus Torvalds'
 ```
-┌──(jmsman3㉿github)-[~/skills]
-└─$ cat tech_stack.json
-```
 
-**░▒▓ LANGUAGES ▓▒░**
-
-![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=00FF00)
-![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=00FF00)
-![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=00FF00)
-![C](https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c&logoColor=00FF00)
-![C++](https://img.shields.io/badge/C++-0D1117?style=for-the-badge&logo=cplusplus&logoColor=00FF00)
-
-**░▒▓ FRONTEND ▓▒░**
-
-![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=00FF00)
-![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=00FF00)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0D1117?style=for-the-badge&logo=tailwind-css&logoColor=00FF00)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-0D1117?style=for-the-badge&logo=bootstrap&logoColor=00FF00)
-
-**░▒▓ BACKEND ▓▒░**
-
-![Django](https://img.shields.io/badge/Django-0D1117?style=for-the-badge&logo=django&logoColor=00FF00)
-![DRF](https://img.shields.io/badge/Django_REST_Framework-0D1117?style=for-the-badge&logo=django&logoColor=00FF00)
-![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=00FF00)
-
-**░▒▓ DATABASE ▓▒░**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=00FF00)
-![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=00FF00)
-![SQLite](https://img.shields.io/badge/SQLite-0D1117?style=for-the-badge&logo=sqlite&logoColor=00FF00)
-![Supabase](https://img.shields.io/badge/Supabase-0D1117?style=for-the-badge&logo=supabase&logoColor=00FF00)
-
-**░▒▓ DEVOPS / TOOLS ▓▒░**
-
-![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=00FF00)
-![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00FF00)
-![VS Code](https://img.shields.io/badge/VS_Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=00FF00)
-![Postman](https://img.shields.io/badge/Postman-0D1117?style=for-the-badge&logo=postman&logoColor=00FF00)
-![Netlify](https://img.shields.io/badge/Netlify-0D1117?style=for-the-badge&logo=netlify&logoColor=00FF00)
-![Vercel](https://img.shields.io/badge/Vercel-0D1117?style=for-the-badge&logo=vercel&logoColor=00FF00)
-![Render](https://img.shields.io/badge/Render-0D1117?style=for-the-badge&logo=render&logoColor=00FF00)
-![Figma](https://img.shields.io/badge/Figma-0D1117?style=for-the-badge&logo=figma&logoColor=00FF00)
-![Notion](https://img.shields.io/badge/Notion-0D1117?style=for-the-badge&logo=notion&logoColor=00FF00)
+<br>
 
 ---
 
-## 🖥️ GitHub Stats
+## 🛠️ &nbsp;Tech Stack
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=jmsman3&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF00&icon_color=00FF00&text_color=FFFFFF" alt="GitHub Stats" />
+### ⚡ Languages
+[![Languages](https://skillicons.dev/icons?i=py,js,ts,c,cpp&theme=dark&perline=5)](https://skillicons.dev)
 
-<br><br>
+### 🎨 Frontend
+[![Frontend](https://skillicons.dev/icons?i=html,css,tailwind,bootstrap&theme=dark&perline=5)](https://skillicons.dev)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmsman3&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF00&text_color=FFFFFF" alt="Top Languages" />
+### ⚙️ Backend & Databases
+[![Backend](https://skillicons.dev/icons?i=django,postgres,mysql,sqlite,supabase&theme=dark&perline=5)](https://skillicons.dev)
 
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=jmsman3&theme=dark&hide_border=true&background=0D1117&ring=00FF00&fire=00FF00&currStreakLabel=00FF00" alt="GitHub Streak" />
-
-<br><br>
-
-[![Trophy](https://github-profile-trophy.vercel.app/?username=jmsman3&theme=matrix&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+### 🧰 Tools & Platforms
+[![Tools](https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,netlify,figma,notion&theme=dark&perline=8)](https://skillicons.dev)
 
 </div>
 
----
-
-## 📁 Top Projects
-
-```
-┌──(jmsman3㉿github)-[~/projects]
-└─$ ls -la --sort=stars
-
-  📁 odoo17                    →  Odoo 17 ERP system implementation & customization   ⭐ 2
-  📁 social-onrender-backend   →  Social platform REST API backend deployed on Render ⭐ 2
-  📁 Final_Backened_django     →  Food delivery platform backend built with Django     ⭐ 2
-  📁 jmsman3                   →  GitHub profile repository & configuration            ⭐ 2
-  📁 odoo                      →  Odoo ERP framework implementation & modules          ⭐ 1
-```
-
-> [odoo17](https://github.com/jmsman3/odoo17) · [social-onrender-backend](https://github.com/jmsman3/social-onrender-backend) · [Final_Backened_django](https://github.com/jmsman3/Final_Backened_django) · [jmsman3](https://github.com/jmsman3/jmsman3) · [odoo](https://github.com/jmsman3/odoo)
+<br>
 
 ---
 
-## 🔒 Contribution Snake
+## 📊 &nbsp;GitHub Stats
 
-![Snake animation](https://github.com/jmsman3/jmsman3/blob/output/github-contribution-grid-snake-dark.svg)
+<div align="center">
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=jmsman3&theme=dracula&no-frame=true&no-bg=false&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+<br>
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=jmsman3&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="Jubaer's GitHub Stats" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmsman3&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<img src="https://streak-stats.demolab.com?user=jmsman3&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+
+</div>
+
+<br>
+
+---
+
+## 🏆 &nbsp;Competitive Programming
+
+<div align="center">
+
+[![Codeforces](https://img.shields.io/badge/Codeforces-jmsman3-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/jmsman3)
+[![LeetCode](https://img.shields.io/badge/LeetCode-jmsman3-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/jmsman3/)
+[![CodeChef](https://img.shields.io/badge/CodeChef-jmsman3-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/jmsman3)
+[![HackerRank](https://img.shields.io/badge/HackerRank-jmsman3-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/jmsman3)
+
+<br>
+
+<img src="https://leetcard.jacoblin.cool/jmsman3?theme=dark&font=Baloo_2&ext=contest&border=0" alt="LeetCode Stats Card" />
+
+</div>
+
+<br>
+
+---
+
+## 🚀 &nbsp;Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/jmsman3/odoo17">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jmsman3&repo=odoo17&theme=tokyonight&hide_border=true&description_lines_count=2" />
+</a>&nbsp;
+<a href="https://github.com/jmsman3/social-onrender-backend">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jmsman3&repo=social-onrender-backend&theme=tokyonight&hide_border=true&description_lines_count=2" />
+</a>
+
+<br><br>
+
+<a href="https://github.com/jmsman3/Final_Backened_django">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jmsman3&repo=Final_Backened_django&theme=tokyonight&hide_border=true&description_lines_count=2" />
+</a>&nbsp;
+<a href="https://github.com/jmsman3/odoo">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jmsman3&repo=odoo&theme=tokyonight&hide_border=true&description_lines_count=2" />
+</a>
+
+</div>
+
+<br>
+
+---
+
+## 🐍 &nbsp;Contribution Graph Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/jmsman3/jmsman3/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/jmsman3/jmsman3/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake animation" src="https://github.com/jmsman3/jmsman3/blob/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+
+</div>
 
 <!-- 
-  TO ENABLE SNAKE ANIMATION:
-  1. Go to your repo: github.com/jmsman3/jmsman3
-  2. Click "Actions" tab
-  3. Click "I understand my workflows, go ahead and enable them"
-  4. Find "Generate Snake" workflow and run it manually
-  5. It will auto-update every day after that
+  ╔══════════════════════════════════════════════╗
+  ║         ENABLE SNAKE ANIMATION               ║
+  ║  1. Go to: github.com/jmsman3/jmsman3        ║
+  ║  2. Actions tab → Enable workflows           ║
+  ║  3. Run "Generate Snake" workflow manually   ║
+  ║  4. It will auto-update every day!           ║
+  ╚══════════════════════════════════════════════╝
 -->
 
----
-
-## ░▒▓ Contribution Activity ▓▒░
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jmsman3&bg_color=0D1117&color=00FF00&line=00FF00&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<br>
 
 ---
 
-## 🌐 Connect
+## 📈 &nbsp;Contribution Activity
 
-```
-┌──(jmsman3㉿github)-[~/connect]
-└─$ ping --all-platforms
+<div align="center">
 
-  🌐 GitHub      → https://github.com/jmsman3
-  💼 LinkedIn    → https://www.linkedin.com/in/jmsman3/
-  🐦 X / Twitter → https://twitter.com/jmsman3
-  💬 Discord     → https://discord.com/users/837661705038332004
-  🏆 Codeforces  → https://codeforces.com/profile/jmsman3
-  🍴 CodeChef    → https://www.codechef.com/users/jmsman3
-  🧩 LeetCode    → https://leetcode.com/jmsman3/
-  🎯 HackerRank  → https://www.hackerrank.com/jmsman3
-```
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jmsman3&bg_color=1a1b27&color=8E54E9&line=6A3DE8&point=ffffff&area_color=4776E6&area=true&hide_border=true&custom_title=Jubaer's%20Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+<br>
+
+---
+
+## 💬 &nbsp;Dev Quote of the Day
+
+<div align="center">
+
+[![Readme Quotes](https://quotes-github-profile.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
+
+</div>
+
+<br>
+
+---
+
+## 🤝 &nbsp;Let's Connect
+
+<div align="center">
+
+| Platform | Link |
+|:--------:|:-----|
+| 💼 **LinkedIn** | [linkedin.com/in/jmsman3](https://www.linkedin.com/in/jmsman3/) |
+| 🐦 **Twitter / X** | [twitter.com/jmsman3](https://twitter.com/jmsman3) |
+| 💬 **Discord** | [discord.com/users/837661705038332004](https://discord.com/users/837661705038332004) |
+| 🏆 **Codeforces** | [codeforces.com/profile/jmsman3](https://codeforces.com/profile/jmsman3) |
+| 🧩 **LeetCode** | [leetcode.com/jmsman3](https://leetcode.com/jmsman3/) |
+| 🍴 **CodeChef** | [codechef.com/users/jmsman3](https://www.codechef.com/users/jmsman3) |
+| 🎯 **HackerRank** | [hackerrank.com/jmsman3](https://www.hackerrank.com/jmsman3) |
+| 🐙 **GitHub** | [github.com/jmsman3](https://github.com/jmsman3) |
+
+</div>
+
+<br>
 
 ---
 
 <div align="center">
 
-```
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-  [ SYSTEM ONLINE ] — Backend dev. Building in silence.
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-```
+*⭐ If you find my work interesting, a star on any repo would make my day!*
 
-![Visitors](https://komarev.com/ghpvc/?username=jmsman3&style=flat-square&color=00FF00&label=SYSTEM+VISITORS)
+<br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=jmsman3&style=flat-square&color=8E54E9&label=Profile+Views)
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E54E9,50:6A3DE8,100:4776E6&height=130&section=footer" width="100%" />
 
 </div>
