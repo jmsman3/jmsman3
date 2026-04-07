@@ -146,16 +146,33 @@ motto : '"Talk is cheap. Show me the code." — Linus Torvalds'
 
 <div align="center">
 
-| Platform | Link |
-|:<img src="https://github.com/SazeebulBashar/SazeebulBashar/raw/main/assets/rainbow.webp" width="100%" /><img src="https://github.com/SazeebulBashar/SazeebulBashar/raw/main/assets/rainbow.webp" width="100%" />--:|:<img src="https://github.com/SazeebulBashar/SazeebulBashar/raw/main/assets/rainbow.webp" width="100%" />--|
-| 💼 **LinkedIn** | [linkedin.com/in/jmsman3](https://www.linkedin.com/in/jmsman3/) |
-| 🐦 **Twitter / X** | [twitter.com/jmsman3](https://twitter.com/jmsman3) |
-| 💬 **Discord** | [discord.com/users/837661705038332004](https://discord.com/users/837661705038332004) |
-| 🏆 **Codeforces** | [codeforces.com/profile/jmsman3](https://codeforces.com/profile/jmsman3) |
-| 🧩 **LeetCode** | [leetcode.com/jmsman3](https://leetcode.com/jmsman3/) |
-| 🍴 **CodeChef** | [codechef.com/users/jmsman3](https://www.codechef.com/users/jmsman3) |
-| 🎯 **HackerRank** | [hackerrank.com/jmsman3](https://www.hackerrank.com/jmsman3) |
-| 🐙 **GitHub** | [github.com/jmsman3](https://github.com/jmsman3) |
+<a href="https://www.linkedin.com/in/jmsman3/">
+  <img src="https://img.shields.io/badge/LinkedIn-Md.%20Jubaer%20Mahmud%20Sarker-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://twitter.com/jmsman3">
+  <img src="https://img.shields.io/badge/X%20(Twitter)-%40jmsman3-000000?style=for-the-badge&logo=x&logoColor=white" />
+</a>
+<a href="https://discord.com/users/837661705038332004">
+  <img src="https://img.shields.io/badge/Discord-jmsman3-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+</a>
+
+<br>
+
+<a href="https://github.com/jmsman3">
+  <img src="https://img.shields.io/badge/GitHub-jmsman3-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://codeforces.com/profile/jmsman3">
+  <img src="https://img.shields.io/badge/Codeforces-jmsman3-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" />
+</a>
+<a href="https://leetcode.com/jmsman3/">
+  <img src="https://img.shields.io/badge/LeetCode-jmsman3-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
+</a>
+<a href="https://www.codechef.com/users/jmsman3">
+  <img src="https://img.shields.io/badge/CodeChef-jmsman3-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" />
+</a>
+<a href="https://www.hackerrank.com/jmsman3">
+  <img src="https://img.shields.io/badge/HackerRank-jmsman3-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
+</a>
 
 </div>
 
