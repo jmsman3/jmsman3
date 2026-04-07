@@ -72,19 +72,17 @@ motto : '"Talk is cheap. Show me the code." — Linus Torvalds'
 
 <div align="center">
 
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=jmsman3&theme=dracula&no-frame=true&margin-w=8&column=7" width="100%" alt="Trophies" />
-</a>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jmsman3&theme=tokyonight" width="100%" alt="Profile Summary" />
 
 <br>
 
 <table>
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=jmsman3&show_icons=true&theme=tokyonight&hide_border=true" alt="Jubaer's GitHub Stats" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jmsman3&theme=tokyonight" alt="Jubaer's GitHub Stats" />
     </td>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmsman3&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jmsman3&theme=tokyonight" alt="Top Languages" />
     </td>
   </tr>
 </table>
