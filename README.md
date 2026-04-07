@@ -18,12 +18,14 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=jmsman3&style=for-the-badge&color=8E54E9&label=PROFILE+VIEWS)
 ![GitHub followers](https://img.shields.io/github/followers/jmsman3?style=for-the-badge&color=6A3DE8&logo=github&label=FOLLOWERS)
+![Public Repos](https://img.shields.io/badge/dynamic/json?label=PUBLIC+REPOS&query=public_repos&url=https://api.github.com/users/jmsman3&style=for-the-badge&color=4776E6&logo=github&logoColor=white)
+![Total Stars](https://img.shields.io/badge/dynamic/json?label=TOTAL+STARS&query=%24.stars&url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2Fjmsman3&style=for-the-badge&color=8E54E9&logo=github&logoColor=white)
 
 </div>
 
 <br>
 
----
+<img src="https://github.com/SazeebulBashar/SazeebulBashar/raw/main/assets/rainbow.webp" width="100%" />
 
 ## 🧑‍💻 &nbsp;About Me
 
@@ -54,7 +56,7 @@ motto : '"Talk is cheap. Show me the code." — Linus Torvalds'
 
 <br>
 
----
+<img src="https://github.com/SazeebulBashar/SazeebulBashar/raw/main/assets/rainbow.webp" width="100%" />
 
 ## 🛠️ &nbsp;Tech Stack
 
@@ -66,7 +68,7 @@ motto : '"Talk is cheap. Show me the code." — Linus Torvalds'
 
 <br>
 
----
+<img src="https://github.com/SazeebulBashar/SazeebulBashar/raw/main/assets/rainbow.webp" width="100%" />
 
 ## 📊 &nbsp;GitHub Stats
 
@@ -95,7 +97,7 @@ motto : '"Talk is cheap. Show me the code." — Linus Torvalds'
 
 <br>
 
----
+<img src="https://github.com/SazeebulBashar/SazeebulBashar/raw/main/assets/rainbow.webp" width="100%" />
 
 ## 🏆 &nbsp;Competitive Programming
 
@@ -114,7 +116,7 @@ motto : '"Talk is cheap. Show me the code." — Linus Torvalds'
 
 <br>
 
----
+<img src="https://github.com/SazeebulBashar/SazeebulBashar/raw/main/assets/rainbow.webp" width="100%" />
 
 ## 📈 &nbsp;Contribution Activity
 
@@ -126,26 +128,26 @@ motto : '"Talk is cheap. Show me the code." — Linus Torvalds'
 
 <br>
 
----
+<img src="https://github.com/SazeebulBashar/SazeebulBashar/raw/main/assets/rainbow.webp" width="100%" />
 
 ## 💬 &nbsp;Dev Quote of the Day
 
 <div align="center">
 
-<img src="https://quotes-github-profile.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" width="100%" />
+<img src="https://readme-jokes.vercel.app/api?bgColor=%231a1b27&textColor=%23a9b1d6&aColor=%238E54E9&borderColor=%236A3DE8" alt="Dev Joke" width="100%" />
 
 </div>
 
 <br>
 
----
+<img src="https://github.com/SazeebulBashar/SazeebulBashar/raw/main/assets/rainbow.webp" width="100%" />
 
 ## 🤝 &nbsp;Let's Connect
 
 <div align="center">
 
 | Platform | Link |
-|:--------:|:-----|
+|:<img src="https://github.com/SazeebulBashar/SazeebulBashar/raw/main/assets/rainbow.webp" width="100%" /><img src="https://github.com/SazeebulBashar/SazeebulBashar/raw/main/assets/rainbow.webp" width="100%" />--:|:<img src="https://github.com/SazeebulBashar/SazeebulBashar/raw/main/assets/rainbow.webp" width="100%" />--|
 | 💼 **LinkedIn** | [linkedin.com/in/jmsman3](https://www.linkedin.com/in/jmsman3/) |
 | 🐦 **Twitter / X** | [twitter.com/jmsman3](https://twitter.com/jmsman3) |
 | 💬 **Discord** | [discord.com/users/837661705038332004](https://discord.com/users/837661705038332004) |
@@ -159,7 +161,7 @@ motto : '"Talk is cheap. Show me the code." — Linus Torvalds'
 
 <br>
 
----
+<img src="https://github.com/SazeebulBashar/SazeebulBashar/raw/main/assets/rainbow.webp" width="100%" />
 
 <div align="center">
 
