@@ -190,6 +190,14 @@ motto : '"Talk is cheap. Show me the code." — Linus Torvalds'
 
 <br>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jmsman3/jmsman3/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jmsman3/jmsman3/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/jmsman3/jmsman3/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</picture>
+
+<br>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E54E9,50:6A3DE8,100:4776E6&height=130&section=footer" width="100%" />
 
 </div>
